@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  style: MyString
+  occurs_at: 2015-09-10 19:34:32
+  difficulty: MyString
+  duration: MyString
+
+two:
+  name: MyString
+  style: MyString
+  occurs_at: 2015-09-10 19:34:32
+  difficulty: MyString
+  duration: MyString
